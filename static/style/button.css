@@ -1,0 +1,17 @@
+.button{
+    display: flex;
+    margin-top: 20px;
+    border-top: solid;
+    border-top-color: #ffffff;
+}
+
+.button a{
+    font-size:30px;
+    font-family: Merriweather;
+    color: #080C71;
+    list-style: none;
+    background-color: white;
+    padding: 15px 120px 15px 120px;
+    border-radius: 15px;
+    margin-top: 45px;
+}

@@ -1,0 +1,30 @@
+.middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 185px;
+}
+
+
+h1{
+    font-size: 80px;
+    font-family: Merriweather;
+    color: white;
+    border-top: solid;
+    border-bottom: solid;
+    border-bottom-color: black;
+    border-top-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 0px;
+}
+
+
+p{
+   font-size: 30px;
+   color: white;
+   margin-top: 55px;
+   text-align: center;
+   margin-bottom: 0px; 
+}

@@ -1,0 +1,14 @@
+.list{
+    display: flex;
+    margin-right: 35px;
+    margin-top: 87px;
+}
+
+.listItem{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-family: Merriweather;
+    font-size: none;
+    margin-left: 56px;
+}

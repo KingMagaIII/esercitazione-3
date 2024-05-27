@@ -1,0 +1,19 @@
+.logoWrapper img{
+    padding-left: 35px;
+    padding-top:20px;
+}
+
+.loghi{
+    display: flex;
+    justify-content: end;
+    margin-right: 35px;
+    padding-bottom: 30px;
+}
+
+
+.loghi img{
+    width: 25;
+    height: 25px;
+    margin-left: 70px;
+    margin-top: 280px;
+}
