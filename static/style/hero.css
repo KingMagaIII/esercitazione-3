@@ -2,15 +2,15 @@
     padding: 0px;
     width: 100vw;
     min-height: 100vh;
-    background-image: url("/static/images/test.png");
+    background-image: url("../images/test.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     position: relative;
 }
 
 
-.hero::after{
+.gradiente{
     content:"";
     display: block;
     position: absolute;
